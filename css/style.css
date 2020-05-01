@@ -2,3 +2,18 @@
     height: 500px;
     width: 100%;
 }
+.btn{
+  margin-top: 10px;
+  margin-bottom: 5px;
+  margin-left: 47vw;
+}
+#ctext{
+  margin-right: 5px;
+}
+#circle{
+  margin-top: 2px;
+  float: left;
+  border-radius: 2em;
+  height: 1em;
+  width: 1em;
+}
